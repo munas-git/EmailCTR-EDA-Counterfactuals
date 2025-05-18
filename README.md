@@ -1,6 +1,6 @@
 # Context
 
-Click-through rate (CTR) is a critical metric in digital marketing, representing the effectiveness of online advertisements in driving user engagement. Optimising CTR helps reduce customer acquisition costs and improve campaign ROI. Unlike traditional marketing methods, online campaigns are data-driven and scalable, allowing for advanced targeting strategies. [This dataset](https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction) contains data related to click/no-click recorded for different users. ***In this analysis, I answer the following questions:***
+Click-through rate (CTR) is a critical metric in digital marketing, representing the effectiveness of online advertisements in driving user engagement. Optimising CTR helps reduce customer acquisition costs and improve campaign ROI. Unlike traditional marketing methods, online campaigns are data-driven and scalable, allowing for advanced targeting strategies. [This dataset](https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction) contains data related to click/no-click recorded for different users. ***In this analysis, I will be answering the following questions:***
 
 ---
 
@@ -23,9 +23,9 @@ Click-through rate (CTR) is a critical metric in digital marketing, representing
 
 7. ***Which feature groups are most associated with unpredictable or inaccurate model predictions?***
 
-8. ***What specific changes, such as adjusting ad delivery timing or targeting different user profiles could improve engagement among the least responsive audiences?***  
+8. ***Which types of users are most responsive to changes in key factors?***  
 
-9. ***Which types of users are most responsive to changes in key factors and how can we leverage that for better targeting?***  
+9. ***What changes in timing or targeting can boost engagement among the least responsive users?***  
 
 10. ***What hidden trends or unexpected feature combinations did the model uncover that could inform more effective marketing strategies moving forward?***  
 
@@ -34,7 +34,3 @@ Click-through rate (CTR) is a critical metric in digital marketing, representing
 **NOTE**: This entire analysis is part of my weekly series in efforts to **demystify applied statistical techniques through real-world, project-driven examples**, making concepts like propensity modelling, causal inference, and evaluation metrics more accessible to practitioners of all backgrounds.
 
 Let's connect! --> [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu/) | [X](https://x.com/einsteinmuna) | [GitHub.](https://github.com/munas-git)
-
-
-# Process   
-
