@@ -4,6 +4,11 @@
 
 Predicting whether a user will click an email advertisement and uncovering **why** they do so.  The analysis walks through data cleaning, extensive feature engineering, rigorous model comparison and tuning, interpretable ML techniques, and counterfactual what‑if simulations, all in a single, reproducible notebook.
 
+**NOTE**: This entire analysis is part of my weekly series in efforts to **demystify applied statistical techniques through real-world, project-driven examples**, making concepts like propensity modelling, causal inference, and evaluation metrics more accessible to practitioners of all backgrounds.
+
+### Author
+
+**Einstein Ebereonwu** • [GitHub](https://github.com/munas-git) • [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu/)   
 *Dataset: [Kaggle – Click‑Through‑Rate Prediction](https://www.kaggle.com/datasets/swekerr/click-through-rate-prediction)*
 
 ---
@@ -28,12 +33,6 @@ Predicting whether a user will click an email advertisement and uncovering **why
 ### Tech Stack
 
 Python | pandas | scikit‑learn | XGBoost | LightGBM | CatBoost | SHAP | Matplotlib/Seaborn
-
----
-
-### Author
-
-**Einstein Ebereonwu** • [GitHub](https://github.com/munas-git) • [LinkedIn](https://www.linkedin.com/in/einstein-ebereonwu/)
 
 ---
 
